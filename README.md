@@ -4,6 +4,9 @@
 * [Spanish](es/)
 * [中文](zh/)
 * [日本語](ja/)
+* [Turkish](tr/)
+* [Português - Brasil](pt-br/)
+* [German](de/)
 
 # Donate
 
@@ -12,7 +15,7 @@ AliPay: <img src="zh/images/alipay.png" alt="alipay" width="100" height="100">
 English Donate:[donate](http://beego.me/donate)
 
 ## Community
-QQ群：386056972
+QQ群：148647580
 
 BBS：[http://golanghome.com/](http://golanghome.com/)
 
